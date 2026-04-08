@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "571839014028",
+    "project_id": "riderescue-autolink",
+    "storage_bucket": "riderescue-autolink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571839014028:android:8db31c87574d357818c7a9",
+        "android_client_info": {
+          "package_name": "com.riderecueservices.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571839014028-15rjhmktqljreeuimgskuhm6hg1crj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijADrwbBHHWpi3ecrq2jvEr1JkHMPKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571839014028-15rjhmktqljreeuimgskuhm6hg1crj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571839014028:android:4b570eebec95dade18c7a9",
+        "android_client_info": {
+          "package_name": "com.riderescue.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571839014028-l8uj6mnuoqsjl9v1dkrf9hn3oi4stu0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riderescue.services",
+            "certificate_hash": "54c6f92c72f67549d719bafd1dfb324c44407e92"
+          }
+        },
+        {
+          "client_id": "571839014028-15rjhmktqljreeuimgskuhm6hg1crj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijADrwbBHHWpi3ecrq2jvEr1JkHMPKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571839014028-15rjhmktqljreeuimgskuhm6hg1crj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
