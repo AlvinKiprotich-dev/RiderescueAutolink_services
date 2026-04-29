@@ -5,7 +5,7 @@
  * It is also used to make the api calls.
  * USED FOR PRODUCTION
  */
-const String baseUrl = 'https://backend-s5ylw.ondigitalocean.app';
+const String baseUrl = 'https://riderescueautolink.com';
 
 /// This is the base url for the api.
 /// It is used to make the api calls.
